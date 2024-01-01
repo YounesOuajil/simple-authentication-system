@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="68c86b15-a47e-445a-a545-c99ac32a40ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Postman Agent.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auth-servis/.idea/pokemon-review-springboot-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auth/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auth/.idea/auth.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auth/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auth/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auth/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auth/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auth/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auth/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auth/auth/src/main/java/com/auth/auth/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auth/auth/src/main/java/com/auth/auth/dto/AuthResponseDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auth/auth/src/main/java/com/auth/auth/dto/LoginDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auth/auth/src/main/java/com/auth/auth/dto/RegisterDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auth/auth/src/main/java/com/auth/auth/models/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auth/auth/src/main/java/com/auth/auth/models/UserEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auth/auth/src/main/java/com/auth/auth/repository/RoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auth/auth/src/main/java/com/auth/auth/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auth/auth/src/main/java/com/auth/auth/security/CustomUserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auth/auth/src/main/java/com/auth/auth/security/JWTAuthenticationFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auth/auth/src/main/java/com/auth/auth/security/JWTGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auth/auth/src/main/java/com/auth/auth/security/JwtAuthEntryPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auth/auth/src/main/java/com/auth/auth/security/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auth/auth/src/main/java/com/auth/auth/security/SecurityConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auth_test2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../e-commerce-app/e-commerce-app/.idea/e-commerce-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productserver (3)/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productserver (3)/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productserver (3)/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productserver (3)/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productserver (3)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productserver (3)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productserver (3)/.idea/productserver (3).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productserver (3)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productserver (3)/productserver/.idea/productserver.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productserver/.idea/productserver.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productserver/productserver/productserver.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productserver/productserver/src/main/java/com/ecomapp/productserver/Entity/user.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productserver/productserver/src/main/java/com/ecomapp/productserver/authcontroller/controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productserver/productserver/src/main/java/com/ecomapp/productserver/authrepository/repositorry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productserver/productserver/src/main/java/com/ecomapp/productserver/authservoce/service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productserver/productserver/src/main/java/com/ecomapp/productserver/securiteconfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project (1)/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project (1)/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project (1)/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project (1)/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project (1)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project (1)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project (1)/.idea/project (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project (1)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project (1)/project/src/main/java/com/project/project/Absence/Absence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project (1)/project/src/main/java/com/project/project/Administration/AdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project (1)/project/src/main/java/com/project/project/Administration/Administration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project (1)/project/src/main/java/com/project/project/Administration/Adminrepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project (1)/project/src/main/java/com/project/project/Administration/Adminservice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project (1)/project/src/main/java/com/project/project/Grade/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project (1)/project/src/main/java/com/project/project/Professor/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project (1)/project/src/main/java/com/project/project/Professor/Professorrepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project (1)/project/src/main/java/com/project/project/student/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project (1)/project/src/main/java/com/project/project/student/Studentrepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project (1)/qodana.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../work_doker/smarthouse-main/smarthouse-main/.idea/smart-house.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../work_doker/smarthouse-main/smarthouse-main/smartHome-front/.idea/smartHome-front.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../work_doker/smarthouse-main/smarthouse-main/smartHome-front/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../work_doker/smarthouse-main/smarthouse-main/smartHome-front/node_modules/encoding/node_modules/iconv-lite/.idea/iconv-lite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../work_doker/smarthouse-main/smarthouse-main/smartHome-front/node_modules/needle/node_modules/iconv-lite/.idea/iconv-lite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../work_doker/smarthouse-main/smarthouse-main/smartHome-front/node_modules/source-map-loader/node_modules/iconv-lite/.idea/iconv-lite.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2aHCJlAvWm268yBu2pkNR7XM1RR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.AuthTest2Application.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/youne/OneDrive/Desktop/auth_test2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="AuthTest2Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.auth_test2.auth_test2.AuthTest2Application" />
+      <module name="auth_test2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.auth_test2.auth_test2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AuthTest2Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68c86b15-a47e-445a-a545-c99ac32a40ef" name="Changes" comment="" />
+      <created>1703966048000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703966048000</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
